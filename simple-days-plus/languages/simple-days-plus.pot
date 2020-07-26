@@ -1,0 +1,51 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Simple Days\n"
+"POT-Creation-Date: 2019-01-28 13:27+0900\n"
+"PO-Revision-Date: 2018-03-31 09:51+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#. Theme Name of the plugin/theme
+msgid "Simple Days Plus"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://back2nature.jp/themes/simpledays-plus"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Simple Days Plus is a child theme of Simple Days.Simple Days is a free "
+"responsive WordPress Blog theme.Visitors arrive by any devices.I designed "
+"it using a mobile-first approach.It is thus possible to improve usability "
+"of the smartphone.And of course, other devices is responsive.Moreover,you "
+"can also edit the design using its customizer.Google Fonts is 800 over."
+"Right or Left or No sidebar.optimized for SEO, utilizing Schema.org "
+"microdata.And Gutenberg ready.Translation ready and currently translated "
+"in Japanese(日本語).If you use plugin of YAHMAN Add-ons, you can Pageviews,"
+"Google Adsense,Analytics,Social,Profile,Table of contents,notice,sitemap,"
+"OGP,Blog card,Accelerated Mobile Pages(AMP).Let's try it."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "YAHMAN"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://back2nature.jp/"
+msgstr ""
